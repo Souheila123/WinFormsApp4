@@ -43,7 +43,7 @@ namespace WinFormsApp4
 <<<<<<< HEAD
             this.button1.Size = new System.Drawing.Size(200, 200);
             this.button1.TabIndex = 0;
-            this.button1.Text = "lob was here";
+            this.button1.Text = "ddddd";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // checkBox1
